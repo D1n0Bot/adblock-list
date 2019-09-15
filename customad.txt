@@ -22,3 +22,6 @@
 0.0.0.0 1083.dlads.cn
 0.0.0.0 adx.dlads.cn
 0.0.0.0 sum0.dlads.cn
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 v7event.stats.avast.com
+0.0.0.0 v7.stats.avast.com
