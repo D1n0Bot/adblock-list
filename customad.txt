@@ -25,3 +25,5 @@
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 v7event.stats.avast.com
 0.0.0.0 v7.stats.avast.com
+0.0.0.0 time.nist.gov
+0.0.0.0 graph.facebook.com
