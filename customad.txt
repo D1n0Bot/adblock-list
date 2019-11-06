@@ -26,4 +26,3 @@
 0.0.0.0 v7event.stats.avast.com
 0.0.0.0 v7.stats.avast.com
 0.0.0.0 time.nist.gov
-0.0.0.0 graph.facebook.com
