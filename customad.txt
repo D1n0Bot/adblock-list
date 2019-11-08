@@ -1,5 +1,5 @@
 0.0.0.0 automate.linksynergy.com
-0.0.0.0 automate-prod.s3.amazonaws.com
+# 0.0.0.0 automate-prod.s3.amazonaws.com
 0.0.0.0 mfad.inskinad.com
 0.0.0.0 ism-telemetry.appspot.com
 0.0.0.0 involve.asia
