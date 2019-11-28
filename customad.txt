@@ -29,7 +29,6 @@
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 ad2.netshelter.net
-0.0.0.0 assets.omidoo.com
 0.0.0.0 flashtalking.com
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 images-na.ssl-images-amazon.com
@@ -42,4 +41,3 @@
 0.0.0.0 ws-eu.amazon-adsystem.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com
-
