@@ -31,7 +31,6 @@
 0.0.0.0 ad2.netshelter.net
 0.0.0.0 flashtalking.com
 0.0.0.0 fls-na.amazon-adsystem.com
-0.0.0.0 images-na.ssl-images-amazon.com
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 ir-uk.amazon-adsystem.com
 0.0.0.0 pagead2.googlesyndication.com
